@@ -5,7 +5,7 @@
 ## Sui City Discord
 
 * [🌐 ルール](sui-city-discord/rule.md)
-* [ロール一覧](sui-city-discord/rolelist.md)
+* [☮ ロール一覧](sui-city-discord/rolelist.md)
 
 ## Sui City RP
 
