@@ -10,8 +10,9 @@
 ## Sui City RP
 
 * [🚀 はじめに](sui-city-rp/rp-start-guide/README.md)
-  * [📕 共通ルール](sui-city-rp/rp-start-guide/rule.md)
+  * [📕 共通ルール](sui-city-rp/rp-start-guide/rru.md)
   * [📗 PDルール](sui-city-rp/rp-start-guide/pdrule.md)
   * [📗 ギャングルール](sui-city-rp/rp-start-guide/gangrule.md)
   * [📗 ビジネスルール](sui-city-rp/rp-start-guide/jobrule.md)
   * [📗 運営ルール](sui-city-rp/rp-start-guide/adminrule.md)
+  * [📙 公共マナー](sui-city-rp/rp-start-guide/man.md)
