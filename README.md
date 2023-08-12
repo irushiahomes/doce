@@ -28,7 +28,7 @@ layout:
 <summary>参加方法</summary>
 
 簡単です!。Discordに参加し、電話番号認証をすることです。\
-Discordはこちら➡[https://discord.gg/FsUCjcjxd2](https://discord.gg/FsUCjcjxd2)
+Discordはこちら➡discord.gg/YzEY9PYBJa
 
 </details>
 
