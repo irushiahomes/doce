@@ -11,6 +11,7 @@
 
 * [🚀 はじめに](sui-city-rp/rp-start-guide/README.md)
   * [📕 共通ルール](sui-city-rp/rp-start-guide/rprule.md)
+  * [🐈⬛ ペットになった際のルール](sui-city-rp/rp-start-guide/catandpuud.md)
   * [📗 PDルール](sui-city-rp/rp-start-guide/pdrule.md)
   * [📗 ギャングルール](sui-city-rp/rp-start-guide/gangrule.md)
   * [📗 ビジネスルール](sui-city-rp/rp-start-guide/jobrule.md)

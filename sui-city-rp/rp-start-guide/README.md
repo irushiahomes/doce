@@ -2,7 +2,7 @@
 
 ## Sui City RP へようこそ
 
-{% hint style="warning" %}
+{% hint style="info" %}
 **注意点:** 本サービスはVCRに影響を受けて作成されたサーバーであり、
 
 全てがVCRと一緒とは限りません。ご理解のほどよろしくお願いします。
