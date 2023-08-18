@@ -49,6 +49,8 @@ F10からまたは右上のHUDから確認可能です。
 設定→グラフィック→Extended Budge Get を半分以上にしてください\
 回線の速度にもよります。
 
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Q: 警察になるにはどうすればいいですか？** \
