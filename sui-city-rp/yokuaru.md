@@ -1,5 +1,10 @@
 # ❔よくある質問
 
+**Q: Gangの招待を受け取ったけどどうすればいいかわからない！**\
+/acceptgang で承認することができます。
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
 **Q: サーバーに再度接続したらマイケルのままです。**\
 完全にFivemを終了してから再度接続すると、このバグは起こりません。
 
