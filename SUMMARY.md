@@ -17,4 +17,5 @@
   * [📗 ビジネスルール](sui-city-rp/rp-start-guide/jobrule.md)
   * [📗 運営ルール](sui-city-rp/rp-start-guide/adminrule.md)
   * [📙 公共マナー](sui-city-rp/rp-start-guide/rpallmen.md)
+* [クリップ・録画・配信について](sui-city-rp/kurippunitsuite.md)
 * [❔よくある質問](sui-city-rp/yokuaru.md)
