@@ -2,10 +2,11 @@
 
 * [👋 ようこそ！](README.md)
 
-## Sui City Discord
+## Sui City World
 
-* [🌐 ルール](sui-city-discord/rule.md)
-* [☮ ロール一覧](sui-city-discord/rolelist.md)
+* [🌐 ルール](sui-city-world/rule.md)
+* [☮ ロール一覧](sui-city-world/rolelist.md)
+* [クリップ・録画・配信について](sui-city-world/kurippunitsuite.md)
 
 ## Sui City RP
 
@@ -17,5 +18,4 @@
   * [📗 ビジネスルール](sui-city-rp/rp-start-guide/jobrule.md)
   * [📗 運営ルール](sui-city-rp/rp-start-guide/adminrule.md)
   * [📙 公共マナー](sui-city-rp/rp-start-guide/rpallmen.md)
-* [クリップ・録画・配信について](sui-city-rp/kurippunitsuite.md)
 * [❔よくある質問](sui-city-rp/yokuaru.md)
