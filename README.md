@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/adasds (2) (1).png
-coverY: 0
+cover: .gitbook/assets/Sui City World.png
+coverY: 202.72
 layout:
   cover:
     visible: true
