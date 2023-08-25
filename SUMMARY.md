@@ -4,9 +4,9 @@
 
 ## Sui City World
 
-* [🌐 ルール](sui-city-world/rule.md)
-* [☮ ロール一覧](sui-city-world/rolelist.md)
-* [クリップ・録画・配信について](sui-city-world/kurippunitsuite.md)
+* [🌐 ルール](sui-city-discord/rule.md)
+* [☮ ロール一覧](sui-city-discord/rolelist.md)
+* [クリップ・録画・配信について](sui-city-world/streamingguideline.md)
 
 ## Sui City RP
 
