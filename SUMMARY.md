@@ -6,7 +6,6 @@
 
 * [🌐 ルール](sui-city-world-or-discord/rule.md)
 * [📑 利用規約](sui-city-world-or-discord/terms.md)
-* [☮ ロール一覧](sui-city-world-or-discord/rolelist.md)
 
 ## Sui City RP
 
