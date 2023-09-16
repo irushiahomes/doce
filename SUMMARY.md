@@ -2,19 +2,22 @@
 
 * [👋 ようこそ！](README.md)
 
-## Sui City World
+## Sui City World | Discord
 
-* [🌐 ルール](sui-city-discord/rule.md)
-* [☮ ロール一覧](sui-city-discord/rolelist.md)
-* [クリップ・録画・配信について](sui-city-world/streamingguideline.md)
+* [🌐 ルール](sui-city-world-or-discord/rule.md)
+* [📑 利用規約](sui-city-world-or-discord/terms.md)
+* [☮ ロール一覧](sui-city-world-or-discord/rolelist.md)
 
 ## Sui City RP
 
-* [🚀 はじめに](sui-city-rp/rp-start-guide/README.md)
-  * [📕 共通ルール](sui-city-rp/rp-start-guide/rprule.md)
-  * [🐈⬛ ペットになった際のルール](sui-city-rp/rp-start-guide/catrule.md)
-  * [📗 PDルール](sui-city-rp/rp-start-guide/pdrule.md)
-  * [📗 ギャングルール](sui-city-rp/rp-start-guide/gangrule.md)
-  * [📗 ビジネスルール](sui-city-rp/rp-start-guide/jobrule.md)
-  * [📙 公共マナー](sui-city-rp/rp-start-guide/rpallmen.md)
+* [🚀 はじめに](sui-city-rp/rp-start-guide.md)
+* [📕 ルール](sui-city-rp/rule/README.md)
+  * [📘 共通ルール](sui-city-rp/rule/rprule.md)
+  * [📗 PD規則](sui-city-rp/rule/pdrule.md)
+  * [📗 EMS規則](sui-city-rp/rule/ems.md)
+  * [📗 ビジネスルール](sui-city-rp/rule/jobrule.md)
+  * [📗 ギャングルール](sui-city-rp/rule/gangrule.md)
+  * [📙 公共マナー](sui-city-rp/rule/rpallmen.md)
+  * [🐈⬛ ペットになった際のルール](sui-city-rp/rule/catrule.md)
+* [👁🗨 クリップ・録画・配信について](sui-city-rp/streaming-guid-line.md)
 * [❔よくある質問](sui-city-rp/yokuaru.md)

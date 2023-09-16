@@ -1,5 +1,11 @@
 # 🌐 ルール
 
+公式Discordサーバーでは以下の利用規約、禁止事項、ガイドラインなどが適用されます。\
+&#x20;ルールに違反した場合は、処罰がなされますのでご注意ください。
+
+Discord サービス利用規約 ([https://discord.com/terms](https://discord.com/terms))\
+Sui City World 利用規約 ([https://docs.sui-city-rp.net/sui-city-world-or-discord/terms](https://docs.sui-city-rp.net/sui-city-world-or-discord/terms))
+
 ### 1.スパム行為や、スタッフの許可を得ていない宣伝行為
 
 (サーバーへの招待、広告掲載など)は禁止です。\
