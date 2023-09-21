@@ -1,5 +1,16 @@
 # ❔よくある質問
 
+### **Q: キャラクターの上に表示されている名前を変えるにはどうすればいいですか？**
+
+**Fivemを開き設定を開きます。**\
+
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+設定からPlayer Nameがあるのでそこに使用したい名前を入れましょう。
+
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
 ### **Q: Gangの招待を受け取ったけどどうすればいいかわからない！** /acceptgang で承認することができます。
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
