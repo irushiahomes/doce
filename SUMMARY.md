@@ -13,6 +13,7 @@
 * [📕 ルール](sui-city-rp/rule/README.md)
   * [📘 共通規則](sui-city-rp/rule/rprule.md)
   * [📗 PD法令遵守](sui-city-rp/rule/pdrule.md)
+  * [📔 犯罪](sui-city-rp/rule/crime.md)
   * [📗 EMS規則](sui-city-rp/rule/ems.md)
   * [📗 ビジネスルール](sui-city-rp/rule/jobrule.md)
   * [📗 ギャングルール](sui-city-rp/rule/gangrule.md)
