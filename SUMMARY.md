@@ -11,8 +11,8 @@
 
 * [🚀 はじめに](sui-city-rp/rp-start-guide.md)
 * [📕 ルール](sui-city-rp/rule/README.md)
-  * [📘 共通ルール](sui-city-rp/rule/rprule.md)
-  * [📗 PD規則](sui-city-rp/rule/pdrule.md)
+  * [📘 共通規則](sui-city-rp/rule/rprule.md)
+  * [📗 PD法令遵守](sui-city-rp/rule/pdrule.md)
   * [📗 EMS規則](sui-city-rp/rule/ems.md)
   * [📗 ビジネスルール](sui-city-rp/rule/jobrule.md)
   * [📗 ギャングルール](sui-city-rp/rule/gangrule.md)

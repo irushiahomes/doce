@@ -15,10 +15,6 @@
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-### **Q: サーバーに再度接続したらマイケルのままです。** 完全にFivemを終了してから再度接続すると、このバグは起こりません。
-
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
-
 ### **Q: サーバーに参加するには？** SuiCityWorldの⏰サーバー状況チャンネルに行き、 Connectボタンを押すとFiveMが起動されサーバーに接続されます
 
 <figure><img src="../.gitbook/assets/image (5).png" alt="" width="132"><figcaption></figcaption></figure>
@@ -33,7 +29,7 @@
 
 ### **Q: バグを見つけました。どうすればいいですか？** 運営にチケットから報告してください。
 
-### **Q: 無料アパートはありますか？** 4箇所存在し、マップから確認できます。
+### **Q: 無料アパートはありますか？** 6箇所存在し、マップから確認できます。
 
 ### **Q: HUDを変更したいのですが可能ですか？**  /hudで変更できます。
 

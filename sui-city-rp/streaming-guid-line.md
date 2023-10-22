@@ -3,8 +3,7 @@
 ### **録画・**配信ガイドライン
 
 投稿者の独創性やコメントを含んだ『Sui City World』を題材とした動画（実況等）は\
-個人又は企業・法人・団体に所属している方でも投稿・配信していただけます。\
-Minecraftは投稿・配信の公開範囲制限がございません。Minecraftの規約に法ってください
+個人又は企業・法人・団体に所属している方でも投稿・配信していただけます。
 
 動画を投稿・配信する場合はSui City RP・Sui City MCと記載していただけると幸いです。\
 「Sui City RPのゲーム内に入らないとわからない情報」については\
@@ -27,7 +26,7 @@ Minecraftは投稿・配信の公開範囲制限がございません。Minecraf
 『Sui City World』公式WEBサイト\
 [https://www.sui-city-rp.net/](https://www.sui-city-rp.net/)\
 \
-© Sui City World.\
+© 2023 Sui City World.\
 \=============
 
 ### **サポート対応について**
