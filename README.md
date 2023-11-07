@@ -4,7 +4,7 @@
 &#x20;ルールに違反した場合は、処罰がなされますのでご注意ください。
 
 Discord サービス利用規約 ([https://discord.com/terms](https://discord.com/terms))\
-Sui City World 利用規約 ([https://docs.sui-city-rp.net/sui-city-world-or-discord/terms](https://docs.sui-city-rp.net/sui-city-world-or-discord/terms))
+Sui City World 利用規約 ([https://docs.sui-city-rp.net/sui-city-world-or-discord/terms](https://docs.irushiahomes.com/suicityneos/sui-city-neos/terms))
 
 Discordの利用規約やサーバールールなどのルールに同意し、遵守する義務があることに注意してください。
 

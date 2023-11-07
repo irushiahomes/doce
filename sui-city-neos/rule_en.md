@@ -4,7 +4,7 @@ The following terms of use, prohibitions, and guidelines apply on the official D
 Please note that violations of these rules will be punished.
 
 Discord Terms of Service ([https://discord.com/terms](https://discord.com/terms))\
-Sui City World Terms of Service ([https://docs.irushiahomes.com/sui-city-world/sui-city-world-or-discord/terms](https://docs.irushiahomes.com/sui-city-world/sui-city-world-or-discord/terms))
+Sui City World Terms of Service ([https://docs.irushiahomes.com/sui-city-world/sui-city-world-or-discord/terms](https://docs.irushiahomes.com/suicityneos/sui-city-neos/terms))
 
 Please note that you are obligated to agree to and abide by the Discord Terms of Service, server rules, and other rules.
 
